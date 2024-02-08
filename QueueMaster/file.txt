@@ -1,0 +1,562 @@
+Clients: [(id:1, aT:1, sT:3), (id:5, aT:1, sT:4), (id:35, aT:1, sT:3), (id:45, aT:1, sT:2), (id:46, aT:1, sT:1), (id:47, aT:1, sT:3), (id:3, aT:2, sT:2), (id:15, aT:2, sT:1), (id:19, aT:2, sT:3), (id:44, aT:2, sT:4), (id:53, aT:2, sT:4), (id:25, aT:3, sT:2), (id:29, aT:3, sT:2), (id:32, aT:3, sT:1), (id:36, aT:3, sT:3), (id:43, aT:3, sT:1), (id:6, aT:4, sT:4), (id:10, aT:4, sT:4), (id:37, aT:4, sT:1), (id:38, aT:4, sT:3), (id:11, aT:5, sT:3), (id:30, aT:5, sT:1), (id:4, aT:6, sT:4), (id:39, aT:6, sT:2), (id:54, aT:6, sT:4), (id:8, aT:8, sT:3), (id:20, aT:8, sT:2), (id:41, aT:8, sT:2), (id:49, aT:8, sT:3), (id:59, aT:8, sT:2), (id:16, aT:9, sT:2), (id:22, aT:9, sT:1), (id:23, aT:9, sT:4), (id:27, aT:9, sT:2), (id:40, aT:9, sT:3), (id:55, aT:9, sT:1), (id:9, aT:10, sT:4), (id:50, aT:10, sT:4), (id:21, aT:11, sT:3), (id:28, aT:11, sT:2), (id:34, aT:11, sT:4), (id:42, aT:11, sT:1), (id:13, aT:12, sT:2), (id:31, aT:12, sT:2), (id:56, aT:12, sT:3), (id:58, aT:12, sT:3), (id:12, aT:13, sT:3), (id:14, aT:13, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:7, aT:14, sT:3), (id:18, aT:14, sT:3), (id:24, aT:14, sT:4), (id:33, aT:14, sT:1), (id:48, aT:14, sT:1), (id:52, aT:14, sT:4), (id:2, aT:15, sT:3), (id:26, aT:15, sT:1), (id:51, aT:15, sT:1), (id:57, aT:15, sT:4)]
+Time:0  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:1  [
+Q1:[(id:1, aT:1, sT:3)], waitingPeriod=3
+, 
+Q2:[(id:5, aT:1, sT:4)], waitingPeriod=4
+, 
+Q3:[(id:35, aT:1, sT:3)], waitingPeriod=3
+, 
+Q4:[(id:45, aT:1, sT:2)], waitingPeriod=2
+, 
+Q5:[(id:46, aT:1, sT:1), (id:47, aT:1, sT:3)], waitingPeriod=4
+]
+Time:2  [
+Q1:[(id:1, aT:1, sT:2), (id:15, aT:2, sT:1), (id:44, aT:2, sT:4)], waitingPeriod=7
+, 
+Q2:[(id:5, aT:1, sT:3), (id:53, aT:2, sT:4)], waitingPeriod=7
+, 
+Q3:[(id:35, aT:1, sT:2), (id:19, aT:2, sT:3)], waitingPeriod=5
+, 
+Q4:[(id:45, aT:1, sT:1), (id:3, aT:2, sT:2)], waitingPeriod=3
+, 
+Q5:[(id:47, aT:1, sT:3)], waitingPeriod=3
+]
+Time:3  [
+Q1:[(id:1, aT:1, sT:1), (id:15, aT:2, sT:1), (id:44, aT:2, sT:4)], waitingPeriod=6
+, 
+Q2:[(id:5, aT:1, sT:2), (id:53, aT:2, sT:4)], waitingPeriod=6
+, 
+Q3:[(id:35, aT:1, sT:1), (id:19, aT:2, sT:3), (id:32, aT:3, sT:1)], waitingPeriod=5
+, 
+Q4:[(id:3, aT:2, sT:2), (id:25, aT:3, sT:2), (id:36, aT:3, sT:3)], waitingPeriod=7
+, 
+Q5:[(id:47, aT:1, sT:2), (id:29, aT:3, sT:2), (id:43, aT:3, sT:1)], waitingPeriod=5
+]
+Time:4  [
+Q1:[(id:15, aT:2, sT:1), (id:44, aT:2, sT:4), (id:37, aT:4, sT:1)], waitingPeriod=6
+, 
+Q2:[(id:5, aT:1, sT:1), (id:53, aT:2, sT:4), (id:38, aT:4, sT:3)], waitingPeriod=8
+, 
+Q3:[(id:19, aT:2, sT:3), (id:32, aT:3, sT:1), (id:6, aT:4, sT:4)], waitingPeriod=8
+, 
+Q4:[(id:3, aT:2, sT:1), (id:25, aT:3, sT:2), (id:36, aT:3, sT:3)], waitingPeriod=6
+, 
+Q5:[(id:47, aT:1, sT:1), (id:29, aT:3, sT:2), (id:43, aT:3, sT:1), (id:10, aT:4, sT:4)], waitingPeriod=8
+]
+Time:5  [
+Q1:[(id:44, aT:2, sT:4), (id:37, aT:4, sT:1), (id:11, aT:5, sT:3)], waitingPeriod=8
+, 
+Q2:[(id:53, aT:2, sT:4), (id:38, aT:4, sT:3)], waitingPeriod=7
+, 
+Q3:[(id:19, aT:2, sT:2), (id:32, aT:3, sT:1), (id:6, aT:4, sT:4)], waitingPeriod=7
+, 
+Q4:[(id:25, aT:3, sT:2), (id:36, aT:3, sT:3), (id:30, aT:5, sT:1)], waitingPeriod=6
+, 
+Q5:[(id:29, aT:3, sT:2), (id:43, aT:3, sT:1), (id:10, aT:4, sT:4)], waitingPeriod=7
+]
+Time:6  [
+Q1:[(id:44, aT:2, sT:3), (id:37, aT:4, sT:1), (id:11, aT:5, sT:3)], waitingPeriod=7
+, 
+Q2:[(id:53, aT:2, sT:3), (id:38, aT:4, sT:3), (id:39, aT:6, sT:2)], waitingPeriod=8
+, 
+Q3:[(id:19, aT:2, sT:1), (id:32, aT:3, sT:1), (id:6, aT:4, sT:4), (id:54, aT:6, sT:4)], waitingPeriod=10
+, 
+Q4:[(id:25, aT:3, sT:1), (id:36, aT:3, sT:3), (id:30, aT:5, sT:1), (id:4, aT:6, sT:4)], waitingPeriod=9
+, 
+Q5:[(id:29, aT:3, sT:1), (id:43, aT:3, sT:1), (id:10, aT:4, sT:4)], waitingPeriod=6
+]
+Time:7  [
+Q1:[(id:44, aT:2, sT:2), (id:37, aT:4, sT:1), (id:11, aT:5, sT:3)], waitingPeriod=6
+, 
+Q2:[(id:53, aT:2, sT:2), (id:38, aT:4, sT:3), (id:39, aT:6, sT:2)], waitingPeriod=7
+, 
+Q3:[(id:32, aT:3, sT:1), (id:6, aT:4, sT:4), (id:54, aT:6, sT:4)], waitingPeriod=9
+, 
+Q4:[(id:36, aT:3, sT:3), (id:30, aT:5, sT:1), (id:4, aT:6, sT:4)], waitingPeriod=8
+, 
+Q5:[(id:43, aT:3, sT:1), (id:10, aT:4, sT:4)], waitingPeriod=5
+]
+Time:8  [
+Q1:[(id:44, aT:2, sT:1), (id:37, aT:4, sT:1), (id:11, aT:5, sT:3), (id:20, aT:8, sT:2), (id:49, aT:8, sT:3)], waitingPeriod=10
+, 
+Q2:[(id:53, aT:2, sT:1), (id:38, aT:4, sT:3), (id:39, aT:6, sT:2), (id:41, aT:8, sT:2)], waitingPeriod=8
+, 
+Q3:[(id:6, aT:4, sT:4), (id:54, aT:6, sT:4)], waitingPeriod=8
+, 
+Q4:[(id:36, aT:3, sT:2), (id:30, aT:5, sT:1), (id:4, aT:6, sT:4), (id:59, aT:8, sT:2)], waitingPeriod=9
+, 
+Q5:[(id:10, aT:4, sT:4), (id:8, aT:8, sT:3)], waitingPeriod=7
+]
+Time:9  [
+Q1:[(id:37, aT:4, sT:1), (id:11, aT:5, sT:3), (id:20, aT:8, sT:2), (id:49, aT:8, sT:3)], waitingPeriod=9
+, 
+Q2:[(id:38, aT:4, sT:3), (id:39, aT:6, sT:2), (id:41, aT:8, sT:2), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2)], waitingPeriod=10
+, 
+Q3:[(id:6, aT:4, sT:3), (id:54, aT:6, sT:4), (id:23, aT:9, sT:4)], waitingPeriod=11
+, 
+Q4:[(id:36, aT:3, sT:1), (id:30, aT:5, sT:1), (id:4, aT:6, sT:4), (id:59, aT:8, sT:2), (id:40, aT:9, sT:3)], waitingPeriod=11
+, 
+Q5:[(id:10, aT:4, sT:3), (id:8, aT:8, sT:3), (id:16, aT:9, sT:2), (id:55, aT:9, sT:1)], waitingPeriod=9
+]
+Time:10  [
+Q1:[(id:11, aT:5, sT:3), (id:20, aT:8, sT:2), (id:49, aT:8, sT:3), (id:9, aT:10, sT:4)], waitingPeriod=12
+, 
+Q2:[(id:38, aT:4, sT:2), (id:39, aT:6, sT:2), (id:41, aT:8, sT:2), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2)], waitingPeriod=9
+, 
+Q3:[(id:6, aT:4, sT:2), (id:54, aT:6, sT:4), (id:23, aT:9, sT:4)], waitingPeriod=10
+, 
+Q4:[(id:30, aT:5, sT:1), (id:4, aT:6, sT:4), (id:59, aT:8, sT:2), (id:40, aT:9, sT:3)], waitingPeriod=10
+, 
+Q5:[(id:10, aT:4, sT:2), (id:8, aT:8, sT:3), (id:16, aT:9, sT:2), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4)], waitingPeriod=12
+]
+Time:11  [
+Q1:[(id:11, aT:5, sT:2), (id:20, aT:8, sT:2), (id:49, aT:8, sT:3), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1)], waitingPeriod=12
+, 
+Q2:[(id:38, aT:4, sT:1), (id:39, aT:6, sT:2), (id:41, aT:8, sT:2), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2), (id:21, aT:11, sT:3)], waitingPeriod=11
+, 
+Q3:[(id:6, aT:4, sT:1), (id:54, aT:6, sT:4), (id:23, aT:9, sT:4), (id:28, aT:11, sT:2)], waitingPeriod=11
+, 
+Q4:[(id:4, aT:6, sT:4), (id:59, aT:8, sT:2), (id:40, aT:9, sT:3), (id:34, aT:11, sT:4)], waitingPeriod=13
+, 
+Q5:[(id:10, aT:4, sT:1), (id:8, aT:8, sT:3), (id:16, aT:9, sT:2), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4)], waitingPeriod=11
+]
+Time:12  [
+Q1:[(id:11, aT:5, sT:1), (id:20, aT:8, sT:2), (id:49, aT:8, sT:3), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3)], waitingPeriod=14
+, 
+Q2:[(id:39, aT:6, sT:2), (id:41, aT:8, sT:2), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2)], waitingPeriod=12
+, 
+Q3:[(id:54, aT:6, sT:4), (id:23, aT:9, sT:4), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2)], waitingPeriod=12
+, 
+Q4:[(id:4, aT:6, sT:3), (id:59, aT:8, sT:2), (id:40, aT:9, sT:3), (id:34, aT:11, sT:4)], waitingPeriod=12
+, 
+Q5:[(id:8, aT:8, sT:3), (id:16, aT:9, sT:2), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4), (id:56, aT:12, sT:3)], waitingPeriod=13
+]
+Time:13  [
+Q1:[(id:20, aT:8, sT:2), (id:49, aT:8, sT:3), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3)], waitingPeriod=13
+, 
+Q2:[(id:39, aT:6, sT:1), (id:41, aT:8, sT:2), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3)], waitingPeriod=14
+, 
+Q3:[(id:54, aT:6, sT:3), (id:23, aT:9, sT:4), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4)], waitingPeriod=15
+, 
+Q4:[(id:4, aT:6, sT:2), (id:59, aT:8, sT:2), (id:40, aT:9, sT:3), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2)], waitingPeriod=14
+, 
+Q5:[(id:8, aT:8, sT:2), (id:16, aT:9, sT:2), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4), (id:56, aT:12, sT:3)], waitingPeriod=12
+]
+Time:14  [
+Q1:[(id:20, aT:8, sT:1), (id:49, aT:8, sT:3), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3)], waitingPeriod=15
+, 
+Q2:[(id:41, aT:8, sT:2), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=17
+, 
+Q3:[(id:54, aT:6, sT:2), (id:23, aT:9, sT:4), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1)], waitingPeriod=15
+, 
+Q4:[(id:4, aT:6, sT:1), (id:59, aT:8, sT:2), (id:40, aT:9, sT:3), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=18
+, 
+Q5:[(id:8, aT:8, sT:1), (id:16, aT:9, sT:2), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3)], waitingPeriod=14
+]
+Time:15  [
+Q1:[(id:49, aT:8, sT:3), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=19
+, 
+Q2:[(id:41, aT:8, sT:1), (id:22, aT:9, sT:1), (id:27, aT:9, sT:2), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=16
+, 
+Q3:[(id:54, aT:6, sT:1), (id:23, aT:9, sT:4), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=15
+, 
+Q4:[(id:59, aT:8, sT:2), (id:40, aT:9, sT:3), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=17
+, 
+Q5:[(id:16, aT:9, sT:2), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=16
+]
+Time:16  [
+Q1:[(id:49, aT:8, sT:2), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=18
+, 
+Q2:[(id:22, aT:9, sT:1), (id:27, aT:9, sT:2), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=15
+, 
+Q3:[(id:23, aT:9, sT:4), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=14
+, 
+Q4:[(id:59, aT:8, sT:1), (id:40, aT:9, sT:3), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=16
+, 
+Q5:[(id:16, aT:9, sT:1), (id:55, aT:9, sT:1), (id:50, aT:10, sT:4), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=15
+]
+Time:17  [
+Q1:[(id:49, aT:8, sT:1), (id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=17
+, 
+Q2:[(id:27, aT:9, sT:2), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=14
+, 
+Q3:[(id:23, aT:9, sT:3), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=13
+, 
+Q4:[(id:40, aT:9, sT:3), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=15
+, 
+Q5:[(id:55, aT:9, sT:1), (id:50, aT:10, sT:4), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=14
+]
+Time:18  [
+Q1:[(id:9, aT:10, sT:4), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=16
+, 
+Q2:[(id:27, aT:9, sT:1), (id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=13
+, 
+Q3:[(id:23, aT:9, sT:2), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=12
+, 
+Q4:[(id:40, aT:9, sT:2), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=14
+, 
+Q5:[(id:50, aT:10, sT:4), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=13
+]
+Time:19  [
+Q1:[(id:9, aT:10, sT:3), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=15
+, 
+Q2:[(id:21, aT:11, sT:3), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=12
+, 
+Q3:[(id:23, aT:9, sT:1), (id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=11
+, 
+Q4:[(id:40, aT:9, sT:1), (id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=13
+, 
+Q5:[(id:50, aT:10, sT:3), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=12
+]
+Time:20  [
+Q1:[(id:9, aT:10, sT:2), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=14
+, 
+Q2:[(id:21, aT:11, sT:2), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=11
+, 
+Q3:[(id:28, aT:11, sT:2), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=10
+, 
+Q4:[(id:34, aT:11, sT:4), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=12
+, 
+Q5:[(id:50, aT:10, sT:2), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=11
+]
+Time:21  [
+Q1:[(id:9, aT:10, sT:1), (id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=13
+, 
+Q2:[(id:21, aT:11, sT:1), (id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=10
+, 
+Q3:[(id:28, aT:11, sT:1), (id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=9
+, 
+Q4:[(id:34, aT:11, sT:3), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=11
+, 
+Q5:[(id:50, aT:10, sT:1), (id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=10
+]
+Time:22  [
+Q1:[(id:42, aT:11, sT:1), (id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=12
+, 
+Q2:[(id:13, aT:12, sT:2), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=9
+, 
+Q3:[(id:31, aT:12, sT:2), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=8
+, 
+Q4:[(id:34, aT:11, sT:2), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=10
+, 
+Q5:[(id:56, aT:12, sT:3), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=9
+]
+Time:23  [
+Q1:[(id:58, aT:12, sT:3), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=11
+, 
+Q2:[(id:13, aT:12, sT:1), (id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=8
+, 
+Q3:[(id:31, aT:12, sT:1), (id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=7
+, 
+Q4:[(id:34, aT:11, sT:1), (id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=9
+, 
+Q5:[(id:56, aT:12, sT:2), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=8
+]
+Time:24  [
+Q1:[(id:58, aT:12, sT:2), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=10
+, 
+Q2:[(id:12, aT:13, sT:3), (id:24, aT:14, sT:4)], waitingPeriod=7
+, 
+Q3:[(id:14, aT:13, sT:4), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=6
+, 
+Q4:[(id:17, aT:13, sT:1), (id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=8
+, 
+Q5:[(id:56, aT:12, sT:1), (id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=7
+]
+Time:25  [
+Q1:[(id:58, aT:12, sT:1), (id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=9
+, 
+Q2:[(id:12, aT:13, sT:2), (id:24, aT:14, sT:4)], waitingPeriod=6
+, 
+Q3:[(id:14, aT:13, sT:3), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=5
+, 
+Q4:[(id:60, aT:13, sT:2), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=7
+, 
+Q5:[(id:7, aT:14, sT:3), (id:2, aT:15, sT:3)], waitingPeriod=6
+]
+Time:26  [
+Q1:[(id:18, aT:14, sT:3), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=8
+, 
+Q2:[(id:12, aT:13, sT:1), (id:24, aT:14, sT:4)], waitingPeriod=5
+, 
+Q3:[(id:14, aT:13, sT:2), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=4
+, 
+Q4:[(id:60, aT:13, sT:1), (id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=6
+, 
+Q5:[(id:7, aT:14, sT:2), (id:2, aT:15, sT:3)], waitingPeriod=5
+]
+Time:27  [
+Q1:[(id:18, aT:14, sT:2), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=7
+, 
+Q2:[(id:24, aT:14, sT:4)], waitingPeriod=4
+, 
+Q3:[(id:14, aT:13, sT:1), (id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=3
+, 
+Q4:[(id:33, aT:14, sT:1), (id:52, aT:14, sT:4)], waitingPeriod=5
+, 
+Q5:[(id:7, aT:14, sT:1), (id:2, aT:15, sT:3)], waitingPeriod=4
+]
+Time:28  [
+Q1:[(id:18, aT:14, sT:1), (id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=6
+, 
+Q2:[(id:24, aT:14, sT:3)], waitingPeriod=3
+, 
+Q3:[(id:48, aT:14, sT:1), (id:51, aT:15, sT:1)], waitingPeriod=2
+, 
+Q4:[(id:52, aT:14, sT:4)], waitingPeriod=4
+, 
+Q5:[(id:2, aT:15, sT:3)], waitingPeriod=3
+]
+Time:29  [
+Q1:[(id:26, aT:15, sT:1), (id:57, aT:15, sT:4)], waitingPeriod=5
+, 
+Q2:[(id:24, aT:14, sT:2)], waitingPeriod=2
+, 
+Q3:[(id:51, aT:15, sT:1)], waitingPeriod=1
+, 
+Q4:[(id:52, aT:14, sT:3)], waitingPeriod=3
+, 
+Q5:[(id:2, aT:15, sT:2)], waitingPeriod=2
+]
+Time:30  [
+Q1:[(id:57, aT:15, sT:4)], waitingPeriod=4
+, 
+Q2:[(id:24, aT:14, sT:1)], waitingPeriod=1
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[(id:52, aT:14, sT:2)], waitingPeriod=2
+, 
+Q5:[(id:2, aT:15, sT:1)], waitingPeriod=1
+]
+Time:31  [
+Q1:[(id:57, aT:15, sT:3)], waitingPeriod=3
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[(id:52, aT:14, sT:1)], waitingPeriod=1
+, 
+Q5:[], waitingPeriod=0
+]
+Time:32  [
+Q1:[(id:57, aT:15, sT:2)], waitingPeriod=2
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:33  [
+Q1:[(id:57, aT:15, sT:1)], waitingPeriod=1
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:34  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:35  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:36  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:37  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:38  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:39  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:40  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:41  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:42  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:43  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:44  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:45  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:46  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:47  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:48  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:49  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
+Time:50  [
+Q1:[], waitingPeriod=0
+, 
+Q2:[], waitingPeriod=0
+, 
+Q3:[], waitingPeriod=0
+, 
+Q4:[], waitingPeriod=0
+, 
+Q5:[], waitingPeriod=0
+]
