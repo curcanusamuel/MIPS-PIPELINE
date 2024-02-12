@@ -1,0 +1,652 @@
+# Blender 4.0.2 MTL File: 'None'
+# www.blender.org
+
+newmtl mat_0-yhz_yu_kezhan_hhq_zhuangshi14.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi14.jpg
+
+newmtl mat_1-yhz_yu_kezhan_hhq_zhengmen2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhengmen2.jpg
+
+newmtl mat_10-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia2.jpg
+
+newmtl mat_11-yhz_yu_kezhan_hhq_zhongjianxiaowuerlou.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerlou.jpg
+
+newmtl mat_12-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouce.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerlouce.jpg
+
+newmtl mat_13-yhz_yu_kezhan_hhq_zhuangshi07.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi07.jpg
+
+newmtl mat_14-yhz_yu_kezhan_hhq_zhuzi03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuzi03.jpg
+
+newmtl mat_15-yhz_yu_kezhan_hhq_zhuangshi05.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi05.jpg
+
+newmtl mat_16-yhz_yu_kezhan_hhq_fangliang02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_fangliang02.jpg
+
+newmtl mat_17-yhz_yu_kezhan_hhq_zhuangshi11.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi11.jpg
+
+newmtl mat_18-yhz_yu_kezhan_hhq_fangliang01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_fangliang01.jpg
+
+newmtl mat_19-yhz_yu_kezhan_hhq_dimian02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_dimian02.jpg
+
+newmtl mat_2-yhz_yu_kezhan_hhq_fangliang03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_fangliang03.jpg
+
+newmtl mat_20-yhz_yu_kezhan_hhq_zhuangshi06.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi06.jpg
+
+newmtl mat_21-yhz_yu_kezhan_hhq_wudingzhuangshi02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_wudingzhuangshi02.jpg
+
+newmtl mat_22-yhz_yu_kezhan_hhq_qiangce02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_qiangce02.jpg
+
+newmtl mat_23-yhz_yu_kezhan_hhq_erlouzhengmiance01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_erlouzhengmiance01.jpg
+
+newmtl mat_24-yhz_yu_kezhan_hhq_zhuangshi13.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi13.jpg
+
+newmtl mat_25-yhz_yu_kezhan_hhq_lingdang.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_lingdang.jpg
+
+newmtl mat_26-yhz_yu_kezhan_hhq_paibian.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_paibian.jpg
+
+newmtl mat_27-yhz_yu_kezhan_hhq_gongzhu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_gongzhu.jpg
+
+newmtl mat_28-yhz_yu_kezhan_hhq_cemianmu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_cemianmu.jpg
+
+newmtl mat_29-yhz_yu_kezhan_hhq_zhuangshi04.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi04.jpg
+
+newmtl mat_3-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouqiang.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerlouqiang.jpg
+
+newmtl mat_30-yhz_yu_kezhan_hhq_zhengmen.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhengmen.jpg
+
+newmtl mat_31-yhz_yu_kezhan_hhq_dimian.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_dimian.jpg
+
+newmtl mat_32-yhz_yu_kezhan_hhq_qiangce01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_qiangce01.jpg
+
+newmtl mat_33-yhz_yu_kezhan_hhq_zhuzi01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuzi01.jpg
+
+newmtl mat_34-yhz_yu_kezhan_hhq_zhuangshi03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi03.jpg
+
+newmtl mat_35-yhz_yu_kezhan_hhq_zhuangshi01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi01.jpg
+
+newmtl mat_36-yhz_yu_kezhan_hhq_zhuzi02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuzi02.jpg
+
+newmtl mat_37-yhz_yu_kezhan_hhq_zhuangshi08.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi08.jpg
+
+newmtl mat_38-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia.jpg
+
+newmtl mat_39-yhz_yu_kezhan_hhq_zhuzi04.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuzi04.jpg
+
+newmtl mat_4-yhz_yu_kezhan_hhq_zhongjianxiaowuerding2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerding2.jpg
+
+newmtl mat_40-yhz_yu_kezhan_hhq_zuomen.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zuomen.jpg
+
+newmtl mat_41-yhz_yu_kezhan_hhq_zhongjianxiaowuerloulangan.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerloulangan.jpg
+
+newmtl mat_42-yhz_yu_kezhan_hhq_langan01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_langan01.jpg
+
+newmtl mat_43-yhz_yu_kezhan_hhq_zuoqiangmen01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zuoqiangmen01.jpg
+
+newmtl mat_44-yhz_yu_kezhan_hhq_zhuangshi02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi02.jpg
+
+newmtl mat_45-yhz_yu_kezhan_hhq_erloucemian01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_erloucemian01.jpg
+
+newmtl mat_46-yhz_yu_kezhan_hhq_zhuangshi10.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi10.jpg
+
+newmtl mat_47-yhz_yu_kezhan_hhq_denglong.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_denglong.jpg
+
+newmtl mat_48-yhz_yu_kezhan_hhq_jiutan.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_jiutan.jpg
+
+newmtl mat_49-yhz_yu_kezhan_hhq_midai.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_midai.jpg
+
+newmtl mat_5-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouding.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhongjianxiaowuerlouding.jpg
+
+newmtl mat_50-G.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd G.jpg
+
+newmtl mat_51-menqianxiaocao.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd menqianxiaocao.jpg
+
+newmtl mat_52-yhz_yu_kezhan_hhq_ding01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_ding01.jpg
+
+newmtl mat_53-dashu1_02_256x256.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd dashu1_02_256x256.jpg
+
+newmtl mat_54-tree_02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tree_02.jpg
+
+newmtl mat_55-tree_03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tree_03.jpg
+
+newmtl mat_56-xiaoxiaoshu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd xiaoxiaoshu.jpg
+
+newmtl mat_57-tree_02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tree_02.jpg
+
+newmtl mat_58-tree_02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tree_02.jpg
+
+newmtl mat_59-shuicao.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd shuicao.jpg
+
+newmtl mat_6-yhz_yu_kezhan_hhq_zhuangshi09.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi09.jpg
+
+newmtl mat_60-yhz_yu_kezhan_pashanhu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_pashanhu.jpg
+
+newmtl mat_61-yhz_yu_kezhan_hhq_yifu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_yifu.jpg
+
+newmtl mat_62-yhz_yu_kezhan_mucai.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_mucai.jpg
+
+newmtl mat_63-yhz_yu_kezhan_hhq_chitang.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_chitang.jpg
+
+newmtl mat_64-default-grey.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd default-grey.jpg
+
+newmtl mat_7-yhz_yu_kezhan_hhq_zuoqiangmen02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zuoqiangmen02.jpg
+
+newmtl mat_8-yhz_yu_kezhan_hhq_dimian03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_dimian03.jpg
+
+newmtl mat_9-yhz_yu_kezhan_hhq_zhuangshi12.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd yhz_yu_kezhan_hhq_zhuangshi12.jpg
