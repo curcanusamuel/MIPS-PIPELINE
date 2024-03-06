@@ -1,0 +1,5 @@
+D:\An 3\PG\Lab 9\x64\Debug\Lab 9.exe
+D:\An 3\PG\Lab 11\x64\Debug\Lab 9.exe
+C:\Users\Samuel-Adrian\Desktop\Lab 11\x64\Debug\Lab 9.exe
+C:\Users\Samuel-Adrian\Desktop\Lab 11 - Copy\x64\Debug\Lab 9.exe
+C:\Users\Samuel-Adrian\Desktop\ProiectFinal\x64\Debug\Lab 9.exe
