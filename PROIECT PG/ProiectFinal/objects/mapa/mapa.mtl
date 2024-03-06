@@ -1,0 +1,1432 @@
+# Blender 4.0.2 MTL File: 'mapa.blend'
+# www.blender.org
+
+newmtl Body
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kung-fu-panda-viper/textures/Viper.png
+
+newmtl Eye
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd kung-fu-panda-viper/textures/Viper's_Eye.png
+
+newmtl MI_Oogway
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd oogway-kung-fu-panda/textures/T_Oogway.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd sandstone_cracks_diff_4k.jpg
+
+newmtl mat_0-26.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casaAlb/26.jpg
+
+newmtl mat_0-4376fd0d.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd panda atac/4376fd0d.jpg
+
+newmtl mat_0-54.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casaAlbaMare/54.jpg
+
+newmtl mat_0-58fe017d.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tigroaica/58fe017d.jpg
+
+newmtl mat_0-Element_Client-9515d30.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-9515d30.jpg
+
+newmtl mat_0-Shifu_Eye.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd shifu/Shifu_Eye.jpg
+
+newmtl mat_0-color_0.790560-0.790560-0.790560.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/wood.jpg
+
+newmtl mat_0-d75c7f2a.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai2/d75c7f2a.jpg
+
+newmtl mat_0-f_interior.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa japan/f_interior.jpg
+
+newmtl mat_0-focustreea_tree.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai1/focustreea_tree.jpg
+
+newmtl mat_0-yhz_yu_kezhan_hhq_zhuangshi14.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi14.jpg
+
+newmtl mat_1-06afcc60.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/06afcc60.jpg
+
+newmtl mat_1-14cd25fd.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd panda atac/14cd25fd.jpg
+
+newmtl mat_1-335a446a.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai2/335a446a.jpg
+
+newmtl mat_1-3fb1a8aa.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd tigroaica/3fb1a8aa.jpg
+
+newmtl mat_1-Element_Client-24c88730.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24c88730.jpg
+
+newmtl mat_1-Shifu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd shifu/Shifu.jpg
+
+newmtl mat_1-focustreea_leaf.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai1/focustreea_leaf.jpg
+
+newmtl mat_1-funayado_map1.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa japan/funayado_map1.jpg
+
+newmtl mat_1-wood.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/wood.jpg
+
+newmtl mat_1-yhz_yu_kezhan_hhq_zhengmen2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhengmen2.jpg
+
+newmtl mat_10-Element_Client-24de2e90.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24de2e90.jpg
+
+newmtl mat_10-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia2.jpg
+
+newmtl mat_11-05affd98.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/05affd98.jpg
+
+newmtl mat_11-Element_Client-248b62b0.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-248b62b0.jpg
+
+newmtl mat_11-yhz_yu_kezhan_hhq_zhongjianxiaowuerlou.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerlou.jpg
+
+newmtl mat_12-8f71a077.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/8f71a077.jpg
+
+newmtl mat_12-Element_Client-246f5250.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-246f5250.jpg
+
+newmtl mat_12-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouce.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerlouce.jpg
+
+newmtl mat_13-0b1cda56.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/0b1cda56.jpg
+
+newmtl mat_13-Element_Client-24d8c590.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24d8c590.jpg
+
+newmtl mat_13-yhz_yu_kezhan_hhq_zhuangshi07.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi07.jpg
+
+newmtl mat_14-Element_Client-24c74390.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24c74390.jpg
+
+newmtl mat_14-af14cc7d.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/af14cc7d.jpg
+
+newmtl mat_14-yhz_yu_kezhan_hhq_zhuzi03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuzi03.jpg
+
+newmtl mat_15-Element_Client-2483b290.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-2483b290.jpg
+
+newmtl mat_15-Element_Client-2483b290.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-2483b290.jpg
+
+newmtl mat_15-a950b8cf.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/a950b8cf.jpg
+
+newmtl mat_15-yhz_yu_kezhan_hhq_zhuangshi05.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi05.jpg
+
+newmtl mat_16-Element_Client-24938c50.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24938c50.jpg
+
+newmtl mat_16-Element_Client-24938c50.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24938c50.jpg
+
+newmtl mat_16-yhz_yu_kezhan_hhq_fangliang02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_fangliang02.jpg
+
+newmtl mat_17-Element_Client-249c1210.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-249c1210.jpg
+
+newmtl mat_17-f6712ed1.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/f6712ed1.jpg
+
+newmtl mat_17-yhz_yu_kezhan_hhq_zhuangshi11.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi11.jpg
+
+newmtl mat_18-Element_Client-24d162d0.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24d162d0.jpg
+
+newmtl mat_18-Element_Client-24d162d0.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24d162d0.jpg
+
+newmtl mat_18-yhz_yu_kezhan_hhq_fangliang01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_fangliang01.jpg
+
+newmtl mat_19-Element_Client-9d9a910.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-9d9a910.jpg
+
+newmtl mat_19-Element_Client-9d9a910.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-9d9a910.jpg
+
+newmtl mat_19-bda0c715.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/bda0c715.jpg
+
+newmtl mat_19-yhz_yu_kezhan_hhq_dimian02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_dimian02.jpg
+
+newmtl mat_2-EWlL_32625842.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/EWlL_32625842.jpg
+
+newmtl mat_2-Element_Client-2465a290.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-2465a290.jpg
+
+newmtl mat_2-Element_Client-2465a290.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-2465a290.jpg
+
+newmtl mat_2-db_077.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai2/db_077.jpg
+
+newmtl mat_2-e7b64466.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/e7b64466.jpg
+
+newmtl mat_2-focustreea_leaf.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai1/focustreea_leaf.jpg
+
+newmtl mat_2-funayado_map2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa japan/funayado_map2.jpg
+
+newmtl mat_2-yhz_yu_kezhan_hhq_fangliang03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_fangliang03.jpg
+
+newmtl mat_20-Element_Client-c9f55f0.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-c9f55f0.jpg
+
+newmtl mat_20-yhz_yu_kezhan_hhq_zhuangshi06.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi06.jpg
+
+newmtl mat_21-Element_Client-24dc7990.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24dc7990.jpg
+
+newmtl mat_21-Element_Client-24dc7990.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24dc7990.jpg
+
+newmtl mat_21-yhz_yu_kezhan_hhq_wudingzhuangshi02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_wudingzhuangshi02.jpg
+
+newmtl mat_22-Element_Client-24c8fff0.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24c8fff0.jpg
+
+newmtl mat_22-yhz_yu_kezhan_hhq_qiangce02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_qiangce02.jpg
+
+newmtl mat_23-Element_Client-24b59b90.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24b59b90.jpg
+
+newmtl mat_23-Element_Client-24b59b90.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24b59b90.jpg
+
+newmtl mat_23-yhz_yu_kezhan_hhq_erlouzhengmiance01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_erlouzhengmiance01.jpg
+
+newmtl mat_24-yhz_yu_kezhan_hhq_zhuangshi13.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi13.jpg
+
+newmtl mat_25-yhz_yu_kezhan_hhq_lingdang.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_lingdang.jpg
+
+newmtl mat_26-yhz_yu_kezhan_hhq_paibian.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_paibian.jpg
+
+newmtl mat_27-yhz_yu_kezhan_hhq_gongzhu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_gongzhu.jpg
+
+newmtl mat_28-yhz_yu_kezhan_hhq_cemianmu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_cemianmu.jpg
+
+newmtl mat_29-yhz_yu_kezhan_hhq_zhuangshi04.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi04.jpg
+
+newmtl mat_3-835259d5.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bonsai2/835259d5.jpg
+
+newmtl mat_3-CH2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/CH2.jpg
+
+newmtl mat_3-Element_Client-24a05010.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24a05010.jpg
+
+newmtl mat_3-Element_Client-24a05010.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24a05010.jpg
+
+newmtl mat_3-e403ba84.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/e403ba84.jpg
+
+newmtl mat_3-funayado_map2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa japan/funayado_map2.jpg
+
+newmtl mat_3-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouqiang.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerlouqiang.jpg
+
+newmtl mat_30-yhz_yu_kezhan_hhq_zhengmen.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhengmen.jpg
+
+newmtl mat_31-yhz_yu_kezhan_hhq_dimian.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_dimian.jpg
+
+newmtl mat_32-yhz_yu_kezhan_hhq_qiangce01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_qiangce01.jpg
+
+newmtl mat_33-yhz_yu_kezhan_hhq_zhuzi01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuzi01.jpg
+
+newmtl mat_34-yhz_yu_kezhan_hhq_zhuangshi03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi03.jpg
+
+newmtl mat_35-yhz_yu_kezhan_hhq_zhuangshi01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi01.jpg
+
+newmtl mat_36-yhz_yu_kezhan_hhq_zhuzi02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuzi02.jpg
+
+newmtl mat_37-yhz_yu_kezhan_hhq_zhuangshi08.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi08.jpg
+
+newmtl mat_38-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerlouxia.jpg
+
+newmtl mat_39-yhz_yu_kezhan_hhq_zhuzi04.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuzi04.jpg
+
+newmtl mat_4-728870ca.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/728870ca.jpg
+
+newmtl mat_4-Element_Client-247f3450.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-247f3450.jpg
+
+newmtl mat_4-color_0.442320-0.163120-0.163120.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/color_0.442320-0.163120-0.163120.jpg
+
+newmtl mat_4-yhz_yu_kezhan_hhq_zhongjianxiaowuerding2.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerding2.jpg
+
+newmtl mat_40-yhz_yu_kezhan_hhq_zuomen.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zuomen.jpg
+
+newmtl mat_41-yhz_yu_kezhan_hhq_zhongjianxiaowuerloulangan.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerloulangan.jpg
+
+newmtl mat_42-yhz_yu_kezhan_hhq_langan01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_langan01.jpg
+
+newmtl mat_43-yhz_yu_kezhan_hhq_zuoqiangmen01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zuoqiangmen01.jpg
+
+newmtl mat_44-yhz_yu_kezhan_hhq_zhuangshi02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi02.jpg
+
+newmtl mat_45-yhz_yu_kezhan_hhq_erloucemian01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_erloucemian01.jpg
+
+newmtl mat_46-yhz_yu_kezhan_hhq_zhuangshi10.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi10.jpg
+
+newmtl mat_47-yhz_yu_kezhan_hhq_denglong.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_denglong.jpg
+
+newmtl mat_48-yhz_yu_kezhan_hhq_jiutan.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_jiutan.jpg
+
+newmtl mat_49-yhz_yu_kezhan_hhq_midai.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_midai.jpg
+
+newmtl mat_5-0c5d5476.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/0c5d5476.jpg
+
+newmtl mat_5-Element_Client-24d62190.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24d62190.jpg
+
+newmtl mat_5-stone.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/stone.jpg
+
+newmtl mat_5-yhz_yu_kezhan_hhq_zhongjianxiaowuerlouding.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhongjianxiaowuerlouding.jpg
+
+newmtl mat_50-G.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/G.jpg
+
+newmtl mat_51-menqianxiaocao.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/menqianxiaocao.jpg
+
+newmtl mat_52-yhz_yu_kezhan_hhq_ding01.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_ding01.jpg
+
+newmtl mat_53-dashu1_02_256x256.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/dashu1_02_256x256.jpg
+
+newmtl mat_54-tree_02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/tree_02.jpg
+
+newmtl mat_55-tree_03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/tree_03.jpg
+
+newmtl mat_56-xiaoxiaoshu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/xiaoxiaoshu.jpg
+
+newmtl mat_57-tree_02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/tree_02.jpg
+
+newmtl mat_58-tree_02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/tree_02.jpg
+
+newmtl mat_59-shuicao.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/shuicao.jpg
+
+newmtl mat_6-9b36a8f3.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/9b36a8f3.jpg
+
+newmtl mat_6-Element_Client-24542670.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24542670.jpg
+
+newmtl mat_6-color_0.762320-0.762320-0.762320.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/color_0.762320-0.762320-0.762320.jpg
+
+newmtl mat_6-yhz_yu_kezhan_hhq_zhuangshi09.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi09.jpg
+
+newmtl mat_60-yhz_yu_kezhan_pashanhu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_pashanhu.jpg
+
+newmtl mat_61-yhz_yu_kezhan_hhq_yifu.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_yifu.jpg
+
+newmtl mat_62-yhz_yu_kezhan_mucai.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_mucai.jpg
+
+newmtl mat_63-yhz_yu_kezhan_hhq_chitang.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_chitang.jpg
+
+newmtl mat_7-96e5e2d1.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/96e5e2d1.jpg
+
+newmtl mat_7-Element_Client-248d44d0.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-248d44d0.jpg
+
+newmtl mat_7-color_0.081600-0.555280-0.081600.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd poarta japan/color_0.081600-0.555280-0.081600.jpg
+
+newmtl mat_7-yhz_yu_kezhan_hhq_zuoqiangmen02.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zuoqiangmen02.jpg
+
+newmtl mat_8-Element_Client-949f030.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-949f030.jpg
+
+newmtl mat_8-Element_Client-949f030.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-949f030.jpg
+
+newmtl mat_8-d75b5e18.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu cu copaci/d75b5e18.jpg
+
+newmtl mat_8-yhz_yu_kezhan_hhq_dimian03.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_dimian03.jpg
+
+newmtl mat_9-Element_Client-24d81bd0.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd templu japan/Element_Client-24d81bd0.jpg
+
+newmtl mat_9-yhz_yu_kezhan_hhq_zhuangshi12.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd casa/yhz_yu_kezhan_hhq_zhuangshi12.jpg
