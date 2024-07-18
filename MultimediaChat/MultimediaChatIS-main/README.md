@@ -1,2 +1,0 @@
-# MultimediaChatIS
-Proiect Chat Multimedia

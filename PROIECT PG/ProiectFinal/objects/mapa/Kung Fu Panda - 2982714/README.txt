@@ -1,1 +1,0 @@
-Kung Fu Panda by Peter3dmaker on Thingiverse: https://www.thingiverse.com/thing:2982714
